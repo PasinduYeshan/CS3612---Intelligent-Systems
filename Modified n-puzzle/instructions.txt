@@ -1,0 +1,6 @@
+Instructions
+Output will be written in "Output.txt"
+Type the start configuration , goal configuration and heuristic name as command line inputs as follows.
+
+180007D Modified n-puzzle.py "Sample_Start_Configuration.txt" "Sample_Goal_Configuration.txt" "misplaced"
+180007D Modified n-puzzle.py "Sample_Start_Configuration.txt" "Sample_Goal_Configuration.txt" "manhattan"
